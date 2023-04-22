@@ -43,10 +43,4 @@
 
 因为整理这些资料也花费了我不少时间，如果您觉得有用，希望能对我进行捐赠打赏，一两块钱就够了，感激不尽。
 
-### 支付宝
 
-![图片1](https://raw.githubusercontent.com/GodofHope/physics/master/donate/Alipay.png)
-
-### 微信
-
-![图片2](https://raw.githubusercontent.com/GodofHope/physics/master/donate/Wechat.png)
